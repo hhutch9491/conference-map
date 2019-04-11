@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "NAME": "Holiday Inn Hotel & Suites",
+        "ADDRESS": "200 West First Street",
+        "PHONE": "218-722-1202",
+        "COST": "$94/night",
+        "URL": "https://www.holidayinn.com/redirect?path=hd&brandCode=HI&localeCode=en&regionCode=1&hotelCode=DULMN&_PMID=99801505&GPC=MNG&viewfullsite=true",
+        "GROUPCODE": "MNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.102067,
+          46.785076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "NAME": "The Inn on Lake Superior",
+        "ADDRESS": "350 Canal Park Drive",
+        "PHONE": "218-279-6000",
+        "COST": "$135-$185/night",
+        "URL": "https://www.theinnonlakesuperior.com/",
+        "GROUPCODE": "Call to reference the Minnesota GIS/LIS Consortium Room Rate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09339,
+          46.783051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "NAME": "Canal Park Lodge",
+        "ADDRESS": "250 Canal Park Drive",
+        "PHONE": "218-279-6000",
+        "COST": "$109/night",
+        "URL": "https://www.thebookingbutton.co.uk/properties/canalparklodgedirect",
+        "GROUPCODE": "Call to reference the Minnesota GIS/LIS Consortium Room Rate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.094302,
+          46.785779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "NAME": "Edgewater Hotel & Waterpark",
+        "ADDRESS": "2400 London Rd",
+        "PHONE": "(800) 777-7925",
+        "COST": "$88/night",
+        "URL": "https://duluthwaterpark.com",
+        "GROUPCODE": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0636721,
+          46.806515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "NAME": "Downtown Duluth Motel",
+        "ADDRESS": "131 W 2nd St",
+        "PHONE": "218-727-6851",
+        "COST": "$88/night",
+        "URL": "http://downtownduluthmotel.com",
+        "GROUPCODE": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1031843,
+          46.7853149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "NAME": "Fitgers Inn",
+        "ADDRESS": "600 E Superior St",
+        "PHONE": "218-722-8862",
+        "COST": "$189/night",
+        "URL": "https://fitgers.com",
+        "GROUPCODE": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.090707,
+          46.792014
+        ]
+      }
+    }
+  ]
+}
